@@ -1,0 +1,10 @@
+{
+    "modname": "ArcanoxCuteEffects Addon",
+    "moddesc": "Addon for ArcanoxCuteEffects to add clothing text keys",
+    "author": "CTN",
+    "modbuild": 2.0,
+    "gamemajor": 5,
+    "gameminor": 4,
+    "gamepatch_min": 1,
+    "gamepatch_max": 999
+}
